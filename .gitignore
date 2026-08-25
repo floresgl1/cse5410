@@ -1,0 +1,28 @@
+# ==========================================
+# 1. Operating System Files
+# ==========================================
+.DS_Store          # macOS folder attributes
+Thumbs.db          # Windows thumbnail cache
+
+# ==========================================
+# 2. Environments and Secrets
+# ==========================================
+.env               # Contains production API keys and passwords
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Allow committing a template file for context
+!.env.example
+
+# ==========================================
+# 3. Code Editor / IDE Configurations
+# ==========================================
+.vscode/           # Visual Studio Code settings
+.idea/             # JetBrains / IntelliJ / WebStorm settings
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp              # Vim swap files
