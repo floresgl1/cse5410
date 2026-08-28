@@ -1,269 +1,296 @@
-Dot Product 
+Dot Product
 
-We may use ~~Cookies~~ |OK | 
+We may use Cookies |OK |
 
-8/27/26, 2:49 PM 
+Advanced A [vector] has magnitude (how long it is) and direction:
 
+*[figure]*
 
+*[figure]*
 
+Here are two vectors:
 
+They can be multiplied using the "Dot Product" (also see (Cross Product) ).
 
-Advanced A ~~[vector]~~ has magnitude (how long it is) and direction: 
+#### Calculating
 
+The Dot Product is written using a central dot:
 
+###### a:b
 
-<!-- Start of picture text -->
-[vector]<br><!-- End of picture text -->
+This means the Dot Product of a and b
 
+We can calculate the Dot Product of two vectors this way:
 
+###### a:b = |a| x |b] x cos(6)
 
-<!-- Start of picture text -->
-ctiod magnitude<br><!-- End of picture text -->
+Where: |a| is the magnitude (length) of vector a
 
-Here are two vectors: 
+https:/Awww.mathsisfun.com/algebra/vectors-dot-product.html
 
-They can be multiplied using the "Dot Product" (also see ~~(Cross Product)~~ ). 
+Dot Product
 
-#### Calculating 
+> **[figure]**
+> 8 is the angle between a and b
+> /. a |b] is the magnitude (length) of vector b
+> lal p
+> [ Ss) Ib] oO theSo wecosine multiplyof the theangle lengthbetweenof a timesa and theb length of b, then multiply by
 
-The Dot Product is written using a central dot: 
+OR we can calculate it this way:
 
-###### a:b 
+##### a:b = a, x by + ay X by
 
-This means the Dot Product of a and b 
+> **[figure]**
+> r a z So we multiply the x's, multiply the y's, then add.
+> | a b
+> ay j
+> pb,
 
-We can calculate the Dot Product of two vectors this way: 
+###### Both methods work!
 
-###### a:b = |a| x |b] x cos(6) 
+And the result is a number (called a "scalar" to show it is not a vector).
 
-Where: |a| is the magnitude (length) of vector a 
+> **[figure]**
+> Example: Calculate the dot product of vectors a and b:
+> 12
+> a | |
+> B ip 595°f13
+> \ / xX
+> a+b = |al| x |b| x cos(6@)
 
-https:/Awww.mathsisfun.com/algebra/vectors ~~-d~~ ot ~~-p~~ roduct.html 
+https:/Awww.mathsisfun.com/algebra/vectors-dot-product.html
 
-1/9 
+Dot Product
 
-8/27/26, 2:49 PM 
+a:b = 10 x 13 x cos(59.5°)
 
-Dot Product 
+a:b = 10 x 13 x 0.5075... a:b = 65.98... = 66 (rounded) OR we can calculate it this way: a:b = a, x by + ay x by a:b=-6x5+4+8x12 a:b =-30 + 96 a:b = 66 Both methods came up with the same result (after rounding) Also note that we used minus6 for a, (it is heading in the negative x-direction)
 
+Note: you can use the | Vector Calculator | to help you.
 
+# Why cos(8) ?
 
-<!-- Start of picture text -->
-8 is the angle between a and b<br>/. a |b] is the magnitude (length) of vector b<br>lal p<br>[ Ss) Ib] oO theSo wecosine multiplyof the theangle lengthbetweenof a timesa and theb length of b, then multiply by<br><!-- End of picture text -->
+OK, to multiply two vectors it makes sense to multiply their lengths together but only when they point in the same direction.
 
-OR we can calculate it this way: 
+So we make one "point in the same direction" as the other by multiplying by cos(@):
 
-##### a:b = a, x by + ay X by 
+https:/Awww.mathsisfun.com/algebra/vectors-dot-product.html
 
+> **[figure]**
+> Dot Product
+> jal fs
+> [ ) ss b
+> \e |a| cos(6)
 
+We take the component of a that lies alongside b
 
-<!-- Start of picture text -->
-r a z So we multiply the x's, multiply the y's, then add.<br>| a b<br>ay j<br>| .<br>pb,<br><!-- End of picture text -->
+Like shining a light to see where the shadow lies
 
-###### Both methods work! 
+> **[figure]**
+> THEN we multiply !
+> /a It works exactly the same if we "projected" b alongside a then
+> \b| cos(®) bw multiplied.
+> [ ree Because it doesn't matter which order we do the multiplication:
+> \— |b|
 
-And the result is a number (called a "scalar" to show it is not a vector). 
+la| x |b] x cos(6) = Jal x cos(@) x |b]
 
+In effect, the dot product multiplies the aligned lengths.
 
+###### Remembering Cos
 
-<!-- Start of picture text -->
-Example: Calculate the dot product of vectors a and b:<br>12<br>a | |<br>B ip 595°f13<br>\ / xX<br>a+b = |al| x |b| x cos(6@)<br><!-- End of picture text -->
+To remember to multiply by cos(8) think "dot cos".
 
-https:/Awww.mathsisfun.com/algebra/vectors ~~-d~~ ot ~~-p~~ roduct.html 
+### Right Angles
 
-2/9 
+When two vectors are at right angles to each other the dot product is zero.
 
-8/27/26, 2:49 PM 
+> **[figure]**
+> Example: calculate the dot product for: the dot product for: product for: for: |
 
-Dot Product 
+Example: calculate the dot product for: the dot product for: product for: for: https:/Awww.mathsisfun.com/algebra/vectors-dot-product.html
 
-a:b = 10 x 13 x cos(59.5°) 
+| 4/9
 
-a:b = 10 x 13 x 0.5075... a:b = 65.98... = 66 (rounded) OR we can calculate it this way: a:b = a, x by + ay x by a:b= ~~-~~ 6x5+4+8x12 a:b = ~~-~~ 30 + 96 a:b = 66 Both methods came up with the same result (after rounding) Also note that we used minus6 for a, (it is heading in the negative x ~~-~~ direction) 
+> **[figure]**
+> Dot Product
+> | a
+> 16 b f
+> | |9
+> —42—-+4 7 —|
+> a+b = |al| x |b| x cos(6@)
+> a:b = |a| x |b] x cos(90°)
+> a:b =|a|x |b| x 0
+> a-b=0
+> or we can calculate it this way:
+> a+b = a, x by + ay x by
+> a:b= - 12x12+16x9
+> a:b = - 144+ 144
+> a:-b=0
 
-Note: you can use the | ~~Vector Calculator~~ | to help you. 
+This can be a handy way to find out if two vectors are at right angles.
 
-# Why cos(8) ? 
+## same Direction
 
-OK, to multiply two vectors it makes sense to multiply their lengths together but only when they point in the same direction. 
+*[figure]*
 
-So we make one "point in the same direction" as the other by multiplying by cos(@): 
+The dot product of two vectors that point in the same direction is the simple product of their lengths, because the angle is 0 degrees which has a cosine of 1
 
-https:/Awww.mathsisfun.com/algebra/vectors ~~-d~~ ot ~~-p~~ roduct.html 
+a:b = |a| x |b] x cos(0°) a-:b=axbxl
 
-3/9 
+https:/Awww.mathsisfun.com/algebra/vectors-dot-product.html
 
-8/27/26, 2:49 PM 
+Dot Product
 
+a:b =ab
 
+#### Right-Angled Triangle
 
-<!-- Start of picture text -->
-Dot Product<br>jal fs<br>[ ) ss b<br>\e |a| cos(6)<br><!-- End of picture text -->
+Let's use the dot product on a right-angled triangle!
 
+*[figure]*
 
+Vector cis the sum of aandb: c=a+b Do a dot product on both sides: c-c=(a+b): (a+b) Expand: c:c=a:(a+b)+b:(a+b) Expand Again: c:-c=a:at+a:b+b-:-a+b:-b a-b=b-a=0O(rightangles): c:c=a:a+b:b c:c=Cfetc: c2=a2+ b2
 
+We just proved the |Pythagorean Theorem |!
 
+Note: when we allow angles other than 90 degrees we can create the (Law of Cosines) . Have a go yourself, but be careful how you define the angle!
 
-We take the component of a that lies alongside b 
+#### Physics
 
-Like shining a light to see where the shadow lies 
+The Dot Product is used a lot in Physics
 
+Example: Work
 
+| 6/9
 
-<!-- Start of picture text -->
-THEN we multiply !<br>/a It works exactly the same if we "projected" b alongside a then<br>\b| cos(®) bw multiplied.<br>[ ree Because it doesn't matter which order we do the multiplication:<br>\— |b|<br><!-- End of picture text -->
+https:/Awww.mathsisfun.com/algebra/vectors-dot-product.html
 
-la| x <mark>|b] x cos(6)</mark> = <mark>Jal x cos(@)</mark> x |b] 
+Dot Product
 
-In effect, the dot product multiplies the aligned lengths. 
+In Physics
 
-###### Remembering Cos 
+is force times distance, but only the aligned part.
 
-To remember to multiply by cos(8) think "dot cos". 
+So work is the dot product of force and distance.
 
-### Right Angles 
+Alex pushes a box 3 m straight forward using 200 N of force. But his push is a little upwards by 20°.
 
-When two vectors are at right angles to each other the dot product is zero. 
+> **[figure]**
+> Work = Force - Distance
 
+= Force x Distance x cos 6 = 200 N x 3m x cos 20° = 200N x 3m x 0.9397... = 564 J (to nearest Joule, where J = N m)
 
+(Without cos 8, the wrong value would be 600 J)
 
-<!-- Start of picture text -->
-Example: calculate the dot product for: the dot product for: product for: for: |<br><!-- End of picture text -->
+### Three or More Dimensions
 
-Example: calculate the dot product for: the dot product for: product for: for: https:/Awww.mathsisfun.com/algebra/vectors ~~-d~~ ot ~~-p~~ roduct.html 
+This all works fine in 3 (or more) dimensions, too.
 
-| 4/9 
+And can actually be very useful!
 
-8/27/26, 2:49 PM 
+Example: Sam has measured the end-points of two poles, and wants to know the angle between them:
 
+https:/Awww.mathsisfun.com/algebra/vectors-dot-product.html
 
+Dot Product
 
-<!-- Start of picture text -->
-8/27/26, 2:49 PM Dot Product<br>| a<br>16 b f<br>| |9<br>—42—-+4 7 —|<br>a+b = |al| x |b| x cos(6@)<br>a:b = |a| x |b] x cos(90°)<br>a:b =|a|x |b| x 0<br>a-b=0<br>or we can calculate it this way:<br>a+b = a, x by + ay x by<br>a:b= - 12x12+16x9<br>a:b = - 144+ 144<br>a:-b=0<br><!-- End of picture text -->
+> **[figure]**
+> Z
+> (4, 8, 10)
+> a
+> (9, 2, 7)
+> x = ee
+> al
+> We have 3 dimensions, so don't forget the z - components:
+> a-b = a, x by t+ ay x by + a, x bz
+> a:b=9x4+2x8+7-x10
+> a:b = 36+ 16+ 70
+> a:b= 122
+> Now for the other formula:
+> a:b = |al| x |b| x cos(@)
+> But what is |a| ? It is the magnitude, or length, of the vector a. We can use
+> Pythagoras |:
+> © jal = v(42 + 82 + 107)
+> e jal = vV(16 + 64 + 100)
+> ¢ jal = V180
+> Likewise for |b|:
+> © |b] = v(92 + 22 + 77)
+> ¢ |b] = V(81 + 4+ 49)
 
-This can be a handy way to find out if two vectors are at right angles. 
+https:/Awww.mathsisfun.com/algebra/vectors-dot-product.html
 
-## same Direction 
+Dot Product
 
+¢ |b] = V134
 
+And we know from the calculation above thata:b = 122, s0:
 
-<!-- Start of picture text -->
-ye<br><!-- End of picture text -->
+a:b = |[a| x |b] x cos(6) 122 = V180 x V134 x cos(@) cos(8) = 122 / (V180 x V134) cos(@) = 0.7855... 8 = cos!(0.7855...) = 38.2...°
 
-The dot product of two vectors that point in the same direction is the simple product of their lengths, because the angle is 0 degrees which has a cosine of 1 
+Done!
 
-a:b = |a| x |b] x cos(0°) a-:b=axbxl 
+I tried a calculation like that once, but worked all in angles and distances ... it was very hard, involved lots of trigonometry, and my brain hurt. The method above is much easier.
 
-https:/Awww.mathsisfun.com/algebra/vectors ~~-d~~ ot ~~-p~~ roduct.html 
+##### Cross Product
 
-5/9 
+The Dot Product gives a scalar (ordinary number) answer, and is sometimes called the scalar product.
 
-8/27/26, 2:49 PM 
+But there is also the which gives a vector as an answer, and is sometimes called the vector product.
 
-Dot Product 
+Mathopolis: Qi Q2 Q3 Q4 Q5 Q6 Q7 Q8 Q9 Qi0
 
-a:b =ab 
+Copyright © 2024 Rod Pierce
 
-#### Righ ~~t-~~ Angled Triangle 
+https:/Awww.mathsisfun.com/algebra/vectors-dot-product.html
 
-Let's use the dot product on a righ ~~t-~~ angled triangle! 
+---
 
+## Reference — canonical source text
 
+*Retrieved 2026-08-27 from [Math is Fun — Dot Product](https://www.mathsisfun.com/algebra/vectors-dot-product.html), the source this handout was printed from. The scan above rendered the formulas as figure text; this section restores them.*
 
-<!-- Start of picture text -->
-Cc<br>b<br><!-- End of picture text -->
+### Two equivalent formulas
 
-Vector cis the sum of aandb: c=a+b Do a dot product on both sides: c-c=(a+b): (a+b) Expand: c:c=a:(a+b)+b:(a+b) Expand Again: c:-c=a:at+a:b+b-:-a+b:-b a-b=b-a=0O(rightangles): c:c=a:a+b:b c:c=Cfetc: c2=a2+ b2 
+**Magnitude / cosine form:**
 
-We just proved the ~~|Pythagorean Theorem~~ |! 
+```
+a · b = |a| × |b| × cos(θ)
+```
 
-Note: when we allow angles other than 90 degrees we can create the ~~(Law of Cosines)~~ . Have a go yourself, but be careful how you define the angle! 
+where `|a|` and `|b|` are the magnitudes and `θ` is the angle between the vectors.
 
-#### Physics 
+**Component form:**
 
-The Dot Product is used a lot in Physics 
+```
+2D:  a · b = ax×bx + ay×by
+3D:  a · b = ax×bx + ay×by + az×bz
+```
 
-Example: Work 
+### Worked example (2D)
 
-| 6/9 
+For vectors of magnitude 10 and 13 separated by 59.5°:
 
-https:/Awww.mathsisfun.com/algebra/vectors ~~-d~~ ot ~~-p~~ roduct.html 
+```
+Formula 1:  10 × 13 × cos(59.5°) = 10 × 13 × 0.5075 ≈ 66
+Formula 2:  (−6 × 5) + (8 × 12)  = −30 + 96          =  66
+```
 
-8/27/26, 2:49 PM 
+Both formulas agree.
 
-Dot Product 
+### Finding the angle between two vectors
 
-In Physics 
+Rearranging the magnitude form:
 
-is force times distance, but only the aligned part. 
+```
+cos(θ) = (a · b) / (|a| × |b|)
+θ = cos⁻¹[ (a · b) / (|a| × |b|) ]
+```
 
-So work is the dot product of force and distance. 
+Worked 3D example: with a dot product of 122 and magnitudes √180 and √134, θ ≈ 38.2°.
 
-Alex pushes a box 3 m straight forward using 200 N of force. But his push is a little upwards by 20°. 
+### Properties
 
-
-
-
-
-
-
-<!-- Start of picture text -->
-Work = Force - Distance<br><!-- End of picture text -->
-
-= Force x Distance x cos 6 = 200 N x 3m x cos 20° = 200N x 3m x 0.9397... = 564 J (to nearest Joule, where J = N m) 
-
-(Without cos 8, the wrong value would be 600 J) 
-
-### Three or More Dimensions 
-
-This all works fine in 3 (or more) dimensions, too. 
-
-And can actually be very useful! 
-
-Example: Sam has measured the end ~~-p~~ oints of two poles, and wants to know the angle between them: 
-
-https:/Awww.mathsisfun.com/algebra/vectors ~~-d~~ ot ~~-p~~ roduct.html 
-
-7/9 
-
-8/27/26, 2:49 PM 
-
-Dot Product 
-
-
-
-<!-- Start of picture text -->
-Z<br>(4, 8, 10)<br>a<br>(9, 2, 7)<br>x = ee<br>al<br>We have 3 dimensions, so don't forget the z - components:<br>a-b = a, x by t+ ay x by + a, x bz<br>a:b=9x4+2x8+7-x10<br>a:b = 36+ 16+ 70<br>a:b= 122<br>Now for the other formula:<br>a:b = |al| x |b| x cos(@)<br>But what is |a| ? It is the magnitude, or length, of the vector a. We can use<br>Pythagoras |:<br>© jal = v(42 + 82 + 107)<br>e jal = vV(16 + 64 + 100)<br>¢ jal = V180<br>Likewise for |b|:<br>© |b] = v(92 + 22 + 77)<br>¢ |b] = V(81 + 4+ 49)<br><!-- End of picture text -->
-
-https:/Awww.mathsisfun.com/algebra/vectors ~~-d~~ ot ~~-p~~ roduct.html 
-
-8/9 
-
-8/27/26, 2:49 PM 
-
-Dot Product 
-
-¢ |b] = V134 
-
-And we know from the calculation above thata:b = 122, s0: 
-
-a:b = |[a| x |b] x cos(6) 122 = V180 x V134 x cos(@) cos(8) = 122 / (V180 x V134) cos(@) = 0.7855... 8 = cos ~~!~~ (0.7855...) = 38.2...° 
-
-Done! 
-
-I tried a calculation like that once, but worked all in angles and distances ... it was very hard, involved lots of trigonometry, and my brain hurt. The method above is much easier. 
-
-##### Cross Product 
-
-The Dot Product gives a scalar (ordinary number) answer, and is sometimes called the scalar product. 
-
-But there is also the which gives a vector as an answer, and is sometimes called the vector product. 
-
-Mathopolis: ~~Qi Q2 Q3 Q4 Q5 Q6 Q7 Q8 Q9 Qi0~~ 
-
-Copyright © 2024 Rod Pierce 
-
-https:/Awww.mathsisfun.com/algebra/vectors ~~-d~~ ot ~~-p~~ roduct.html 
-
-9/9 
-
+- **Right angles:** when two vectors are perpendicular the dot product is **zero**, because cos(90°) = 0.
+- **Same direction:** when θ = 0°, cos(0°) = 1, so `a · b = |a| × |b|`.
+- The result is a **scalar** (an ordinary number), not a vector — contrast with the [cross product](vector_cross_product.md).
